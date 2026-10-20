@@ -1,0 +1,40 @@
+{
+"id": "house-chayaweinberg",  "name": "הבית של חיה",
+  "creator": "chayaWeinberg",
+  "plot": "A10",
+  "building": "cottage",
+  "color": "#D0AA65",
+  "decoration": "mailbox",
+  "story": "אדניות עם פרחים",
+  "design": {
+    "wall": "#dad0a0",
+    "trim": "#c89d74",
+    "floors": 1,
+    "roof": "classic",
+    "windows": "cross",
+    "garden": "wildflowers",
+    "feature": "balcony"
+  },
+  "resident": {
+    "name": "Linus",
+    "figure": "male",
+    "skin": "#D9B68B",
+    "hair": "#675A48",
+    "outfit": "#789B76",
+    "accessory": "none",
+    "greeting": "Hello!",
+    "routine": {
+      "morning": "work",
+      "afternoon": "stroll",
+      "evening": "home",
+      "night": "sleep"
+    }
+  },
+  "sign": {
+    "mode": "text",
+    "text": "HELLO",
+    "color": "#FFF4D4",
+    "background": "#35554A",
+    "html": ""
+  }
+}
